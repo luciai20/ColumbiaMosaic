@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Kill Your Darlings",
+        "date": "Oct. 26th",
+        "time": "8:00pm - 10:00pm",
+        "location": "Dodge 501",
+        "type": "Open Mic",
+        "category": "Media/Publications",
+        "description": "A ritual for your crustiest love poems, a seance for your percy jackson fanfiction. bring the drafts that haunt you and join us in communing with all our old, dead writing. x\u03bfx\u03bf, 4\u00d74"
+    },
+    {
+        "id": 2,
+        "title": "The Boys in the Band",
+        "date": "Nov. 10th",
+        "time": "8:00pm - 10:00pm",
+        "location": "Miller Theater",
+        "type": "Performance",
+        "category": "Performing Arts",
+        "description": "Come support the band!"
+    },
+    {
+        "id": 3,
+        "title": "The Boys in the Band",
+        "date": "Nov. 11th",
+        "time": "8:00pm - 10:00pm",
+        "location": "Miller Theater",
+        "type": "Performance",
+        "category": "Performing Arts",
+        "description": "Come support the band!"
+    }
+]
