@@ -1,4 +1,9 @@
 # ColumbiaMosaic
+This is a couse long project that I along with 3 other teammates developed. We were prompted with developing a project that could solve a problem that a group of people were facing in and/or around the Columbia University campus. After several design iterations, we decided to develop Columbia Mosaic, a mobile app designed for Columbia University students to easily discover and engage with the campus's vibrant arts scene. This user-friendly app features a dynamic map and a list view of art-related events, allowing students to filter events by various criteria and save or share them with friends. We also wanted users to be able to learn about clubs and organizations hosting these events. While creating a Mosaic account with their UNI offers additional features like following clubs and receiving tailored event recommendations, the app is accessible to all, regardless of their level of commitment, ensuring everyone can explore their artistic interests conveniently.
+
+The code in this repo is drawn directly from these Figma high-fidelity prototypes: https://www.figma.com/file/7Qz4KVKKmQuwzyLhW95b8W/Columbia-Mosaic-Final?type=design&node-id=2-4&mode=design. 
+
+
 From the README:
 To run the project, first we need to have XCode Installed. This can be done directly from the App Store for Mac users.
 
